@@ -1,0 +1,418 @@
+src/myQAGRTP/AffectedStntSelector.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/AffectedStntSelector.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/AffectedStntSelector.java:10:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/AffectedStntSelector.java:12:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String[])' has a cognitive complexity of 26, current threshold is 15
+src/myQAGRTP/AffectedStntSelector.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/AffectedStntSelector.java:12:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String[])' has a cyclomatic complexity of 19.
+src/myQAGRTP/AffectedStntSelector.java:12:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/myQAGRTP/AffectedStntSelector.java:12:	NPathComplexity:	NPathComplexity: The method 'main(String[])' has an NPath complexity of 26244, current threshold is 200
+src/myQAGRTP/AffectedStntSelector.java:12:	NcssCount:	NcssCount: The method 'main(String[])' has a NCSS line count of 81.
+src/myQAGRTP/AffectedStntSelector.java:14:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/myQAGRTP/AffectedStntSelector.java:14:	CloseResource:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/myQAGRTP/AffectedStntSelector.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'reader' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Linelist' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:16:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Linelist' doesn't match '[a-z][a-zA-Z0-9]*'
+src/myQAGRTP/AffectedStntSelector.java:16:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:23:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:25:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list1' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:28:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list2' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:29:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:30:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list3' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:30:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list4' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:31:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list5' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:32:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list6' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:33:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list7' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:34:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'list8' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:35:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/AffectedStntSelector.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ranIndex' could be declared final
+src/myQAGRTP/AffectedStntSelector.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like ln
+src/myQAGRTP/AffectedStntSelector.java:98:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:99:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:100:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:101:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:102:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:103:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:104:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:105:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:106:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AffectedStntSelector.java:109:	CloseResource:	CloseResource: Ensure that resources like this PrintWriter object are closed after use
+src/myQAGRTP/AffectedStntSelector.java:109:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'writer' could be declared final
+src/myQAGRTP/AssignWeights.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/AssignWeights.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/AssignWeights.java:8:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/AssignWeights.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/AssignWeights.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/AssignWeights.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/AssignWeights.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/AssignWeights.java:17:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/myQAGRTP/AssignWeights.java:17:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'connection' could be declared final
+src/myQAGRTP/AssignWeights.java:18:	CloseResource:	CloseResource: Ensure that resources like this Statement object are closed after use
+src/myQAGRTP/AssignWeights.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'statement' could be declared final
+src/myQAGRTP/AssignWeights.java:20:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/myQAGRTP/AssignWeights.java:21:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'integers' could be declared final
+src/myQAGRTP/AssignWeights.java:26:	AvoidReassigningLoopVariables:	AvoidReassigningLoopVariables: Avoid reassigning the loop control variable 'i'
+src/myQAGRTP/AssignWeights.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'weights' could be declared final
+src/myQAGRTP/AssignWeights.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'option' could be declared final
+src/myQAGRTP/AssignWeights.java:41:	CloseResource:	CloseResource: Ensure that resources like this PreparedStatement object are closed after use
+src/myQAGRTP/AssignWeights.java:41:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'PreparedStmnt' could be declared final
+src/myQAGRTP/AssignWeights.java:41:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'PreparedStmnt' doesn't match '[a-z][a-zA-Z0-9]*'
+src/myQAGRTP/AssignWeights.java:54:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/myQAGRTP/AssignWeights.java:56:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/AssignWeights.java:57:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/myQAGRTP/Chromosome.java:6:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/Chromosome.java:16:	AvoidFieldNameMatchingTypeName:	AvoidFieldNameMatchingTypeName: It is somewhat confusing to have a field name matching the declaring class name
+src/myQAGRTP/Chromosome.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/Chromosome.java:16:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Chromosome.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'fitness'
+src/myQAGRTP/Chromosome.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/Chromosome.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/Chromosome.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/Chromosome.java:25:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Chromosome.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chr' is not assigned and could be declared final
+src/myQAGRTP/Chromosome.java:30:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Chromosome.java:38:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ftn' is not assigned and could be declared final
+src/myQAGRTP/Chromosome.java:42:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/Chromosome.java:42:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Chromosome.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'chr' is not assigned and could be declared final
+src/myQAGRTP/Chromosome.java:43:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'chrSize' could be declared final
+src/myQAGRTP/Chromosome.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'no' could be declared final
+src/myQAGRTP/Chromosome.java:47:	ShortVariable:	ShortVariable: Avoid variables with short names like no
+src/myQAGRTP/Chromosome.java:48:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/myQAGRTP/Chromosome.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rn' could be declared final
+src/myQAGRTP/Chromosome.java:55:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+src/myQAGRTP/Chromosome.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'number' could be declared final
+src/myQAGRTP/Chromosome.java:56:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'number'
+src/myQAGRTP/Chromosome.java:63:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'number' is not assigned and could be declared final
+src/myQAGRTP/Chromosome.java:63:	UnusedPrivateMethod:	UnusedPrivateMethod: Avoid unused private methods such as 'evenNumber(int)'.
+src/myQAGRTP/Chromosome.java:67:	UnusedPrivateMethod:	UnusedPrivateMethod: Avoid unused private methods such as 'genRandom()'.
+src/myQAGRTP/Chromosome.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rn' could be declared final
+src/myQAGRTP/Chromosome.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+src/myQAGRTP/Chromosome.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'num' could be declared final
+src/myQAGRTP/Chromosome.java:69:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'num'
+src/myQAGRTP/CkjmTask.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/CkjmTask.java:3:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/myQAGRTP/CkjmTask.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/CritProcessor.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/CritProcessor.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/CritProcessor.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/CritProcessor.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/CritProcessor.java:8:	ImmutableField:	ImmutableField: Field 'nodes' may be declared final
+src/myQAGRTP/CritProcessor.java:8:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/CritProcessor.java:9:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/CritProcessor.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file1' could be declared final
+src/myQAGRTP/CritProcessor.java:11:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'costfile'.
+src/myQAGRTP/CritProcessor.java:12:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/CritProcessor.java:12:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/CritProcessor.java:13:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:14:	CloseResource:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/myQAGRTP/CritProcessor.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'input' could be declared final
+src/myQAGRTP/CritProcessor.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'testLabel' could be declared final
+src/myQAGRTP/CritProcessor.java:16:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'testcase' could be declared final
+src/myQAGRTP/CritProcessor.java:18:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:22:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:24:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/myQAGRTP/CritProcessor.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+src/myQAGRTP/CritProcessor.java:26:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:28:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:31:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cost' could be declared final
+src/myQAGRTP/CritProcessor.java:32:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/CritProcessor.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/CritProcessor.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testLabel' is not assigned and could be declared final
+src/myQAGRTP/CritProcessor.java:45:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/CritProcessor.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/CritProcessor.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodeID' is not assigned and could be declared final
+src/myQAGRTP/CritProcessor.java:52:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/CritProcessor.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'file1' is not assigned and could be declared final
+src/myQAGRTP/CritProcessor.java:53:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/CritProcessor.java:53:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/CritProcessor.java:55:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/myQAGRTP/CritProcessor.java:55:	CloseResource:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/myQAGRTP/CritProcessor.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'br2' could be declared final
+src/myQAGRTP/CritProcessor.java:57:	AssignmentInOperand:	AssignmentInOperand: Avoid assignments in operands
+src/myQAGRTP/CritProcessor.java:58:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/myQAGRTP/CritProcessor.java:59:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'parts' could be declared final
+src/myQAGRTP/CritProcessor.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'label' could be declared final
+src/myQAGRTP/CritProcessor.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodes' could be declared final
+src/myQAGRTP/CritProcessor.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodesID' could be declared final
+src/myQAGRTP/CritProcessor.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/myQAGRTP/CritProcessor.java:71:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testLabel' is not assigned and could be declared final
+src/myQAGRTP/CritProcessor.java:74:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/myQAGRTP/CritProcessor.java:74:	CloseResource:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/myQAGRTP/CritProcessor.java:74:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'br' could be declared final
+src/myQAGRTP/CritProcessor.java:74:	ShortVariable:	ShortVariable: Avoid variables with short names like br
+src/myQAGRTP/CritProcessor.java:76:	AssignmentInOperand:	AssignmentInOperand: Avoid assignments in operands
+src/myQAGRTP/CritProcessor.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'parts' could be declared final
+src/myQAGRTP/CritProcessor.java:85:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/myQAGRTP/DatabaseManager.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/DatabaseManager.java:4:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/DatabaseManager.java:4:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/DatabaseManager.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/DatabaseManager.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/DatabaseManager.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/DatabaseManager.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/DatabaseManager.java:13:	CloseResource:	CloseResource: Ensure that resources like this Connection object are closed after use
+src/myQAGRTP/DatabaseManager.java:13:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'connection' could be declared final
+src/myQAGRTP/DatabaseManager.java:14:	CloseResource:	CloseResource: Ensure that resources like this Statement object are closed after use
+src/myQAGRTP/DatabaseManager.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'statement' could be declared final
+src/myQAGRTP/DatabaseManager.java:22:	CloseResource:	CloseResource: Ensure that resources like this ResultSet object are closed after use
+src/myQAGRTP/DatabaseManager.java:24:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/DatabaseManager.java:35:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/DatabaseManager.java:46:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/DatabaseManager.java:53:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/DatabaseManager.java:54:	AvoidPrintStackTrace:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/myQAGRTP/Main.java:6:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/Main.java:20:	ShortClassName:	ShortClassName: Avoid short class names like Main
+src/myQAGRTP/Main.java:20:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/myQAGRTP/Main.java:20:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/Main.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/Main.java:23:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:23:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'testSuite'.
+src/myQAGRTP/Main.java:24:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'changedObjects' could be declared final
+src/myQAGRTP/Main.java:25:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:26:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'DreadTestSuite' doesn't match '[a-z][a-zA-Z0-9]*'
+src/myQAGRTP/Main.java:26:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file1' could be declared final
+src/myQAGRTP/Main.java:28:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'file2'.
+src/myQAGRTP/Main.java:29:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:41:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:46:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:46:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'readTestSuite' is never used (overwritten on line 47)
+src/myQAGRTP/Main.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:53:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:57:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:59:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:63:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:67:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/myQAGRTP/Main.java:68:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/myQAGRTP/Main.java:68:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'm'.
+src/myQAGRTP/Main.java:71:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:72:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:75:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mChild' could be declared final
+src/myQAGRTP/Main.java:75:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'childFitness' could be declared final
+src/myQAGRTP/Main.java:79:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cTest' could be declared final
+src/myQAGRTP/Main.java:80:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:81:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cSuite' could be declared final
+src/myQAGRTP/Main.java:82:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:84:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:85:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:95:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:95:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'child' is not assigned and could be declared final
+src/myQAGRTP/Main.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newChild' could be declared final
+src/myQAGRTP/Main.java:96:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rn' could be declared final
+src/myQAGRTP/Main.java:97:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+src/myQAGRTP/Main.java:98:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'range' could be declared final
+src/myQAGRTP/Main.java:99:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mp1' could be declared final
+src/myQAGRTP/Main.java:100:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mp2' could be declared final
+src/myQAGRTP/Main.java:102:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'temp' could be declared final
+src/myQAGRTP/Main.java:108:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'child' is not assigned and could be declared final
+src/myQAGRTP/Main.java:109:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+src/myQAGRTP/Main.java:109:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:110:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:111:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:113:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:116:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:116:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testSuite' is not assigned and could be declared final
+src/myQAGRTP/Main.java:117:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:118:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:122:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:122:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testSuite' is not assigned and could be declared final
+src/myQAGRTP/Main.java:123:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:124:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:128:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:128:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'changedObjects' is not assigned and could be declared final
+src/myQAGRTP/Main.java:129:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+src/myQAGRTP/Main.java:130:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:132:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:135:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:135:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:135:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:135:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'changedObjects' is not assigned and could be declared final
+src/myQAGRTP/Main.java:135:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testSuite' is not assigned and could be declared final
+src/myQAGRTP/Main.java:136:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'selected' could be declared final
+src/myQAGRTP/Main.java:136:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:137:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:140:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/myQAGRTP/Main.java:141:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/myQAGRTP/Main.java:144:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'node' could be declared final
+src/myQAGRTP/Main.java:151:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/myQAGRTP/Main.java:151:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'ts' could be declared final
+src/myQAGRTP/Main.java:151:	ShortVariable:	ShortVariable: Avoid variables with short names like ts
+src/myQAGRTP/Main.java:158:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:158:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'file1' is not assigned and could be declared final
+src/myQAGRTP/Main.java:159:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:159:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:161:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/myQAGRTP/Main.java:161:	CloseResource:	CloseResource: Ensure that resources like this BufferedReader object are closed after use
+src/myQAGRTP/Main.java:161:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'br2' could be declared final
+src/myQAGRTP/Main.java:163:	AssignmentInOperand:	AssignmentInOperand: Avoid assignments in operands
+src/myQAGRTP/Main.java:164:	AvoidInstantiatingObjectsInLoops:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/myQAGRTP/Main.java:165:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'parts' could be declared final
+src/myQAGRTP/Main.java:166:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'label' could be declared final
+src/myQAGRTP/Main.java:168:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodes' could be declared final
+src/myQAGRTP/Main.java:169:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'nodesID' could be declared final
+src/myQAGRTP/Main.java:170:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/myQAGRTP/Main.java:178:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:178:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:178:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'readTestSuite' is not assigned and could be declared final
+src/myQAGRTP/Main.java:179:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'parents' could be declared final
+src/myQAGRTP/Main.java:179:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:180:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'selectedLabel' could be declared final
+src/myQAGRTP/Main.java:180:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:181:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 't' could be declared final
+src/myQAGRTP/Main.java:184:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/myQAGRTP/Main.java:187:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'tempselectedLabel' could be declared final
+src/myQAGRTP/Main.java:187:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:195:	FormalParameterNamingConventions:	FormalParameterNamingConventions: The method parameter name 'DreadTestSuite' doesn't match '[a-z][a-zA-Z0-9]*'
+src/myQAGRTP/Main.java:195:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:195:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:195:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'parents' is not assigned and could be declared final
+src/myQAGRTP/Main.java:195:	UnusedFormalParameter:	UnusedFormalParameter: Avoid unused method parameters such as 'DreadTestSuite'.
+src/myQAGRTP/Main.java:196:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'parent' could be declared final
+src/myQAGRTP/Main.java:197:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:197:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:198:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suiteFitness' could be declared final
+src/myQAGRTP/Main.java:203:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/myQAGRTP/Main.java:204:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+src/myQAGRTP/Main.java:204:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:205:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'str' could be declared final
+src/myQAGRTP/Main.java:206:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:208:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:212:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:212:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:212:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'parents' is not assigned and could be declared final
+src/myQAGRTP/Main.java:212:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'selectedTestSuite' is not assigned and could be declared final
+src/myQAGRTP/Main.java:214:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+src/myQAGRTP/Main.java:214:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:215:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'max' could be declared final
+src/myQAGRTP/Main.java:216:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'min' could be declared final
+src/myQAGRTP/Main.java:217:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'range' could be declared final
+src/myQAGRTP/Main.java:218:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rn' could be declared final
+src/myQAGRTP/Main.java:218:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+src/myQAGRTP/Main.java:219:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'cp' could be declared final
+src/myQAGRTP/Main.java:219:	ShortVariable:	ShortVariable: Avoid variables with short names like cp
+src/myQAGRTP/Main.java:238:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:238:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'child' is not assigned and could be declared final
+src/myQAGRTP/Main.java:238:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'parents' is not assigned and could be declared final
+src/myQAGRTP/Main.java:253:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/myQAGRTP/Main.java:254:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suite' could be declared final
+src/myQAGRTP/Main.java:254:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/Main.java:255:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'suit' could be declared final
+src/myQAGRTP/Main.java:256:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Main.java:258:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Matrix.java:6:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/Matrix.java:15:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/Matrix.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'rn'
+src/myQAGRTP/Matrix.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/Matrix.java:16:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/myQAGRTP/Matrix.java:16:	ShortVariable:	ShortVariable: Avoid variables with short names like rn
+src/myQAGRTP/Matrix.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/Matrix.java:18:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/myQAGRTP/Matrix.java:18:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/myQAGRTP/Matrix.java:19:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'm' could be declared final
+src/myQAGRTP/Matrix.java:19:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/myQAGRTP/Matrix.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'n' is not assigned and could be declared final
+src/myQAGRTP/Matrix.java:24:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/myQAGRTP/Matrix.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'matrix' could be declared final
+src/myQAGRTP/Matrix.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'num' could be declared final
+src/myQAGRTP/Matrix.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'm' is not assigned and could be declared final
+src/myQAGRTP/Matrix.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like m
+src/myQAGRTP/Matrix.java:35:	UseVarargs:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/myQAGRTP/Matrix.java:36:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'rowSum' could be declared final
+src/myQAGRTP/Matrix.java:37:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'colSum' could be declared final
+src/myQAGRTP/Matrix.java:43:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Matrix.java:45:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Matrix.java:48:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Matrix.java:50:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/Matrix.java:52:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/MetricsGenerator.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/MetricsGenerator.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/MetricsGenerator.java:6:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/MetricsGenerator.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/MetricsGenerator.java:10:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'triangleProgramPath' could be declared final
+src/myQAGRTP/MetricsGenerator.java:10:	LongVariable:	LongVariable: Avoid excessively long variable names like triangleProgramPath
+src/myQAGRTP/MetricsGenerator.java:14:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pb' could be declared final
+src/myQAGRTP/MetricsGenerator.java:14:	ShortVariable:	ShortVariable: Avoid variables with short names like pb
+src/myQAGRTP/MetricsGenerator.java:15:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/myQAGRTP/MetricsGenerator.java:15:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/myQAGRTP/MetricsGenerator.java:17:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/myQAGRTP/MetricsGenerator.java:18:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/MetricsGenerator.java:22:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'classFiles'.
+src/myQAGRTP/MetricsGenerator.java:26:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'pb' could be declared final
+src/myQAGRTP/MetricsGenerator.java:26:	ShortVariable:	ShortVariable: Avoid variables with short names like pb
+src/myQAGRTP/MetricsGenerator.java:27:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'p' could be declared final
+src/myQAGRTP/MetricsGenerator.java:27:	ShortVariable:	ShortVariable: Avoid variables with short names like p
+src/myQAGRTP/MetricsGenerator.java:28:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/myQAGRTP/MetricsGenerator.java:28:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'is' could be declared final
+src/myQAGRTP/MetricsGenerator.java:28:	ShortVariable:	ShortVariable: Avoid variables with short names like is
+src/myQAGRTP/MetricsGenerator.java:29:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/myQAGRTP/MetricsGenerator.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/myQAGRTP/MetricsGenerator.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/myQAGRTP/MetricsGenerator.java:32:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'metricsFile' could be declared final
+src/myQAGRTP/MetricsGenerator.java:33:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/myQAGRTP/MetricsGenerator.java:33:	CloseResource:	CloseResource: Ensure that resources like this FileWriter object are closed after use
+src/myQAGRTP/MetricsGenerator.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'writer' could be declared final
+src/myQAGRTP/MetricsGenerator.java:38:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/MetricsGenerator.java:39:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/myQAGRTP/MetricsGenerator.java:40:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/SelectTestCase.java:15:	CommentRequired:	CommentRequired: Class comments are required
+src/myQAGRTP/SelectTestCase.java:15:	TestClassWithoutTestCases:	TestClassWithoutTestCases: The class 'SelectTestCase' might be a test class, but it contains no test cases.
+src/myQAGRTP/SelectTestCase.java:15:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/myQAGRTP/SelectTestCase.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'testCases'
+src/myQAGRTP/SelectTestCase.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/SelectTestCase.java:16:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/SelectTestCase.java:16:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/myQAGRTP/SelectTestCase.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: Missing commented default access modifier on field 'selectedTestCases'
+src/myQAGRTP/SelectTestCase.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/SelectTestCase.java:17:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/SelectTestCase.java:17:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/myQAGRTP/SelectTestCase.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/SelectTestCase.java:27:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:28:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/myQAGRTP/SelectTestCase.java:29:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:33:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/myQAGRTP/SelectTestCase.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/myQAGRTP/SelectTestCase.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/myQAGRTP/SelectTestCase.java:34:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'n' could be declared final
+src/myQAGRTP/SelectTestCase.java:35:	ShortVariable:	ShortVariable: Avoid variables with short names like n
+src/myQAGRTP/SelectTestCase.java:36:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:38:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'index' could be declared final
+src/myQAGRTP/SelectTestCase.java:42:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/SelectTestCase.java:43:	ForLoopCanBeForeach:	ForLoopCanBeForeach: This for loop can be replaced by a foreach loop
+src/myQAGRTP/SelectTestCase.java:44:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/myQAGRTP/TestSuite.java:6:	PackageCase:	PackageCase: Package name contains upper case characters
+src/myQAGRTP/TestSuite.java:14:	TestClassWithoutTestCases:	TestClassWithoutTestCases: The class 'TestSuite' might be a test class, but it contains no test cases.
+src/myQAGRTP/TestSuite.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/TestSuite.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/myQAGRTP/TestSuite.java:16:	ImmutableField:	ImmutableField: Field 'nodes' may be declared final
+src/myQAGRTP/TestSuite.java:16:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/TestSuite.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/TestSuite.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/TestSuite.java:23:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/TestSuite.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'nodes' is not assigned and could be declared final
+src/myQAGRTP/TestSuite.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testLabel' is not assigned and could be declared final
+src/myQAGRTP/TestSuite.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'testLabel' is not assigned and could be declared final
+src/myQAGRTP/TestSuite.java:36:	LooseCoupling:	LooseCoupling: Avoid using implementation types like 'ArrayList'; use the interface instead
+src/myQAGRTP/TestSuite.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/myQAGRTP/TestSuite.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'node' is not assigned and could be declared final
+src/myQAGRTP/TestSuite.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'test' could be declared final
+src/myQAGRTP/TestSuite.java:48:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'id' could be declared final
+src/myQAGRTP/TestSuite.java:50:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/myQAGRTP/TestSuite.java:52:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/myQAGRTP/TestSuite.java:55:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'tcase' could be declared final
+src/myQAGRTP/TestSuite.java:55:	UnnecessaryLocalBeforeReturn:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'tcase'
